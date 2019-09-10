@@ -1,0 +1,10 @@
+Student 1, Name is John, it not full time, Department is computer Science, Course is English{subject='CSCE 1001', studentEnrolled=14, instructorName='Ryan', starttime='11:30AM', endtime='12:45AM', studentAllowed=20}Math{subject='Math 1002', studentEnrolled=50, instructorName='Jesus', starttime='8:30AM', endtime='9:45AM', studentAllowed=43}English{subject='English 1003', studentEnrolled=20, instructorName='Chris', starttime='1:30PM', endtime='2:45AM', studentAllowed=21}, Address is 123 School AVE, Year is Junior/ 
+-------------------------------------------------------------------------------
+Student 2, Name is Jesus, it is full time, Department is Music, Course is English{subject='CSCE 1001', studentEnrolled=14, instructorName='Ryan', starttime='11:30AM', endtime='12:45AM', studentAllowed=20}Math{subject='Math 1002', studentEnrolled=50, instructorName='Jesus', starttime='8:30AM', endtime='9:45AM', studentAllowed=43}, Address is 543 Crossover Road, Year is Senior/ 
+-------------------------------------------------------------------------------
+Student 3, Name is Ryan, it not full time, Department is computer Science, Course is English{subject='CSCE 1001', studentEnrolled=14, instructorName='Ryan', starttime='11:30AM', endtime='12:45AM', studentAllowed=20}, Address is 123 School AVE, Year is senior/ 
+-------------------------------------------------------------------------------
+Student 4, Name is Kevin, it is full time, Department is Business , Course is English{subject='CSCE 1001', studentEnrolled=14, instructorName='Ryan', starttime='11:30AM', endtime='12:45AM', studentAllowed=20}, Address is 543 Crossover Road, Year is senior/ 
+-------------------------------------------------------------------------------
+Student 5, Name is Chris, it not full time, Department is Art, Course is English{subject='CSCE 1001', studentEnrolled=14, instructorName='Ryan', starttime='11:30AM', endtime='12:45AM', studentAllowed=20}, Address is 123 School AVE, Year is senior/ 
+-------------------------------------------------------------------------------
